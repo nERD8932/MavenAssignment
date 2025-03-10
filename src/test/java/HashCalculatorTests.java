@@ -1,7 +1,9 @@
 import com.smu.mscda.HashCalculator;
 import org.junit.jupiter.api.Test;
+
 import java.security.NoSuchAlgorithmException;
 import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HashCalculatorTests {
